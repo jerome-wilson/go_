@@ -1,0 +1,15 @@
+2025-08-29 09:14:21 INFO  [Server] Starting server on port 8080
+2025-08-29 09:14:21 INFO  [Database] Connected to PostgreSQL successfully
+2025-08-29 09:14:22 WARN  [Cache] Redis connection slow, retrying...
+2025-08-29 09:14:23 INFO  [AuthService] User login request received
+2025-08-29 09:14:23 ERROR [AuthService] Invalid credentials for user: admin
+2025-08-29 09:14:24 INFO  [RequestHandler] Processing request ID=1042
+2025-08-29 09:14:25 INFO  [EmailService] Sending email to user@example.com
+2025-08-29 09:14:26 ERROR [EmailService] Failed to send email: SMTP connection timeout
+2025-08-29 09:14:27 INFO  [Scheduler] Scheduled job executed successfully
+2025-08-29 09:14:28 WARN  [DiskMonitor] Disk space low on /dev/sda1 (10% remaining)
+2025-08-29 09:14:30 INFO  [Server] Health check passed
+2025-08-29 09:14:32 ERROR [PaymentService] Transaction failed for OrderID=8821, reason: insufficient funds
+2025-08-29 09:14:33 INFO  [PaymentService] Retrying payment for OrderID=8821
+2025-08-29 09:14:34 INFO  [PaymentService] Payment successful for OrderID=8821
+2025-08-29 09:14:35 INFO  [Server] Shutting down gracefully
