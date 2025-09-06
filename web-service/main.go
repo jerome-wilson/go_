@@ -24,3 +24,5 @@ func main() {
 		log.Fatal((err))
 	}
 }
+
+//run http://localhost:3000 or http://localhost:3000/?name=value
