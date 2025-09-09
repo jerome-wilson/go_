@@ -1,0 +1,14 @@
+Coffee
+
+Latte
+Espresso
+Cappuchino
+Cold Coffee
+
+Tea
+
+Regular Tea
+Black Tea
+Mint Tea
+Ginger Tea
+Green Tea
